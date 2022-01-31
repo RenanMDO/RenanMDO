@@ -25,3 +25,6 @@
   ![Snake animation](https://github.com/RenanMDO/RenanMDO/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="renanmdo" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://at.linkedin.com/in/renanmdo?trk=profile-badge">Renan Montenegro de Oliveira</a></div>
+              

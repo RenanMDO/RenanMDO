@@ -1,6 +1,6 @@
 - 👋 Hi, I am @RenanMDO
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Web and App Development
+- 🌱 I’m currently learning JavaScript, TypeScript, ReactJS, Next.JS...
 
 ##
 
